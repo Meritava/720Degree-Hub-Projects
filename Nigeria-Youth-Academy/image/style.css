@@ -59,7 +59,7 @@ a:hover {
 
 /* section two */
 .sec-two {
-    background-image: url(./image/background-first.jpg);
+    background-image: url(./background-first.jpg);
     background-size: cover;
     min-height: 100vh;
     background-attachment: fixed;
